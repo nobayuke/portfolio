@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "dotenv": "^5.0.0",
-    "gatsby": "^1.9.202",
+    "gatsby": "^2.0",
     "gatsby-image": "^1.0.37",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-google-analytics": "^1.0.19",
